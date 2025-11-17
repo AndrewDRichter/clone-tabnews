@@ -8,7 +8,7 @@ function Home(){
             Minha apreciada namorada <br />
             Quero de ti cuidar, e, com muito esmero, <br />
             Amar-te. E a única coisa que de ti espero, <br />
-            É que me deixes, ao altar, levar-te.
+            É que me deixes, ao altar, levar-te. ❤
         </p>
         </main>
 }
